@@ -85,3 +85,4 @@ end
 gem "dotenv-rails"
 gem "devise"
 gem "devise"
+gem "administrate"
