@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Template Project with:
 
-Things you may want to cover:
+.railsrc
+--database=postgresql
+-G
+--css tailwind
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+run 'rails new template -m path_to/template.rb'
+run 'bin/rails app:template LOCATION=path_to/devise.rb
+run 'bin/rails app:template LOCATION=path_to/adminstrate.rb
